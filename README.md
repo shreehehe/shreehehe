@@ -1,14 +1,15 @@
 # Hi there, I'm Anushree Paul! 👋  
 
-Welcome to my GitHub profile! I’m a final-year BCA student and a passionate **Python enthusiast**.  
+Welcome to my GitHub profile! **Python** enthusiast with a love for **data analysis**, solving problems one line of code at a time.  
 
 ---
 
 ## 🌟 About Me  
 - 🔥 Skilled in **Python** with experience in **Pandas**, **NumPy**, **Matplotlib**, and **Seaborn**.  
+- 📊 Passionate about **data analysis**, **visualization**, and Expertise in **ETL**, **data cleaning**, and **handling missing values**.
+- 📊 Skilled in **advanced SQL**, **Excel**, data mining & Proficient in **data warehousing**.
+- 🛠️ Proficient in **HTML**, **CSS**, **JavaScript** and **Git/GitHub**.
 - 💻 Exploring **Django** to build scalable web applications.  
-- 📊 Passionate about **data analysis**, **visualization**, and deriving meaningful insights.  
-- 🛠️ Proficient in **HTML**, **CSS**, **JavaScript**, **MySQL**, and **Git/GitHub**.  
 
 ---
 
